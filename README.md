@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo Emiliano Geuna</h1>
+<h1 align="center">Hola 👋, me llamo {Emiliano Geuna}</h1>
 <h3 align="center">Soy un Frontend apacionado.</h3>
 
 - 📫 How to reach me **emilianogeuna1994@gmail.com**
