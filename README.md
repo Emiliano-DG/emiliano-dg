@@ -8,10 +8,10 @@
 
 ---
 
-### 🚀 Actualmente
-- ✅ Proyectos prácticos: carrito de compras con **Zustand + Tailwind**, app del clima consumiendo API  
-- 📚 Estudiando **JavaScript** y **React**  
-- 🔜 Próximamente: **Node.js + Express** para backend  
+### 🚀Actualmente 
+- ✅ Desarrollando mi **app de gastos personales** (proyecto práctico).  
+- 📚 Estudiando **JavaScript** y **React**.  
+- 🔜 Próximamente aprendiendo **Node.js + Express** para backend.
 
 ---
 
