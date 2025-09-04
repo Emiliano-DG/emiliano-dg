@@ -29,7 +29,8 @@
 
 ### 📂 Proyectos destacados
 - 🛒 [Carrito de compras](https://github.com/Emiliano-DG/carrito-compras-react-tailwind) (React + Zustand + Tailwind)  
-- 🌦️ [App del clima](https://github.com/Emiliano-DG/aplicacion-clima-react) (JavaScript + consumo de API)  
+- 🌦️ [App del clima](https://github.com/Emiliano-DG/aplicacion-clima-react) (React + consumo de API)
+- 🎬 [Buscador de películas](https://github.com/Emiliano-DG/buscador-peliculas-react) (React + consumo de API)   
 
 ---
 
