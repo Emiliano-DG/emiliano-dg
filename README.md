@@ -28,8 +28,8 @@
 ---
 
 ### 📂 Proyectos destacados
-- 🛒 [Carrito de compras](#) (React + Zustand + Tailwind)  
-- 🌦️ [App del clima](#) (JavaScript + consumo de API)  
+- 🛒 [Carrito de compras](https://github.com/Emiliano-DG/carrito-compras-react-tailwind) (React + Zustand + Tailwind)  
+- 🌦️ [App del clima](https://github.com/Emiliano-DG/aplicacion-clima-react) (JavaScript + consumo de API)  
 
 ---
 
