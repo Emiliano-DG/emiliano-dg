@@ -2,17 +2,17 @@
 
 <p align="center">
   💻 Aprendiendo programación por mi cuenta<br>
-  🌱 Enfocado en el desarrollo web<br>
+  📱 Enfocado en el desarrollo web y mobile<br>
   🎯 Objetivo: conseguir mi primer trabajo como programador<br>
 </p>
 
 ---
 
-### 🚀Actualmente 
-- ✅ Desarrollando mi **app de gastos personales** (proyecto práctico).  
-- 📚 Estudiando **JavaScript** y **React**.  
-- 🔜 Próximamente aprendiendo **Node.js + Express** para backend.
-
+### 🚀 Actualmente 
+- 📚 Aprendiendo **React Native** y practicando desarrollo de apps móviles.  
+- 🧠 Reforzando conocimientos en **JavaScript** y **React**.  
+- 🔨 Próximamente haré mi **app de gastos personales** en mobile, y luego su versión web.  
+- 🚀 Más adelante: aprender **Node.js + Express** para backend.
 ---
 
 ### 🛠 Tecnologías que estoy aprendiendo
