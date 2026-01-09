@@ -2,15 +2,15 @@
 
 <p align="center">
   💻 Desarrollador Web en formación<br>
-  🌐 Enfocado en desarrollo frontend con React<br>
+  🌐 Enfocado en desarrollo frontend con React, iniciando el camino en backend<br>
   🎯 Objetivo: conseguir mi primer trabajo como programador<br>
 </p>
 
 ### 🚀 Actualmente 
 - 📚 Profundizando en **React** y **TypeScript** mediante proyectos prácticos.  
-- 🧠 Reforzando fundamentos de **JavaScript** y buenas prácticas de frontend.  
-- 🔨 Desarrollando una **app de gastos personales** (React + estado global + consumo de datos).  
-- 🚀 Próximo paso: aprender **Node.js + Express** para avanzar hacia un perfil **Full Stack**.
+- 🧠 Reforzando fundamentos de **JavaScript** y buenas prácticas de desarrollo.  
+- 🔨 Desarrollando una **app de gastos e ingresos personales** con React (estado global, persistencia de datos y buenas prácticas).  
+- 🚀 Aprendiendo **Node.js y Express** para comenzar a construir APIs y avanzar hacia un perfil **Full Stack**.
 
 ### 🛠 Tecnologías
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -23,10 +23,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
-
 ### 📂 Proyectos destacados
-- 💰 **App de gastos personales** *(en desarrollo)*  
-  React · Estado global · Persistencia · Buenas prácticas  
+- 💰 **App de gastos e ingresos personales** *(en desarrollo)*  
+  React · Estado global · Persistencia de datos · Buenas prácticas  
 
 - 🛒 [Carrito de compras](https://github.com/Emiliano-DG/carrito-compras-react-tailwind)  
   React · Zustand · Tailwind  
@@ -37,6 +36,6 @@
 - 🎬 [Buscador de películas](https://github.com/Emiliano-DG/buscador-peliculas-react)  
   React · Consumo de API
 
-  ### 📫 Contacto
+### 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-- 📧 emmi.dg30@gmail.com  
+- 📧 emilianogeuna1994@gmail.com
