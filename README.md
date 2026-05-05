@@ -1,40 +1,50 @@
-<h1 align="center">¡Hola! 👋 Soy Emiliano</h1>
+  # ¡Hola! 👋 Soy Emiliano Geuna
 
-<p align="center">
-  💻 Desarrollador Web en formación<br>
-  🌐 Enfocado en desarrollo frontend con React, iniciando el camino en backend<br>
-  🎯 Objetivo: conseguir mi primer trabajo como programador<br>
-</p>
+### React Native Developer | Mobile & Frontend | React · TypeScript · Node.js
 
-### 🚀 Actualmente 
-- 📚 Profundizando en **React** y **TypeScript** mediante proyectos prácticos.  
-- 🧠 Reforzando fundamentos de **JavaScript** y buenas prácticas de desarrollo.  
-- 🔨 Desarrollando una **app de gastos e ingresos personales** con React (estado global, persistencia de datos y buenas prácticas).  
-- 🚀 Aprendiendo **Node.js y Express** para comenzar a construir APIs y avanzar hacia un perfil **Full Stack**.
+Soy un apasionado por el desarrollo de aplicaciones móviles de alto rendimiento. Mi enfoque actual está en el ecosistema **JavaScript/TypeScript**, creando soluciones multiplataforma fluidas y escalables. 
 
-### 🛠 Tecnologías
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-181717?style=flat&logo=react&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+Proveniente del mundo Web (React), he evolucionado mi stack hacia el desarrollo nativo con **Expo**, priorizando siempre la experiencia de usuario y el código limpio.
 
-### 📂 Proyectos destacados
-- 💰 **App de gastos e ingresos personales** *(en desarrollo)*  
-  React · Estado global · Persistencia de datos · Buenas prácticas  
+---
 
-- 🛒 [Carrito de compras](https://github.com/Emiliano-DG/carrito-compras-react-tailwind)  
-  React · Zustand · Tailwind  
+### 🚀 Mi Enfoque Actual
+*   📱 **Mobile First:** Especializándome en React Native para construir apps robustas.
+*   🧠 **Performance:** Implementando animaciones a 60fps y gestos nativos.
+*   ⚡ **Full Stack Journey:** Expandiendo mis capacidades con Node.js y Supabase para el manejo de arquitecturas de datos.
 
-- 🌦️ [App del clima](https://github.com/Emiliano-DG/aplicacion-clima-react)  
-  React · Consumo de API  
+---
 
-- 🎬 [Buscador de películas](https://github.com/Emiliano-DG/buscador-peliculas-react)  
-  React · Consumo de API
+### 🛠 Tech Stack
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Mobile** | React Native, Expo (Router, SDK 54), Reanimated, Gesture Handler |
+| **Frontend** | React, TypeScript, Tailwind CSS, Zustand, TanStack Query |
+| **Backend & DB** | Node.js, Express, Supabase (PostgreSQL), Zod |
+| **Herramientas** | Git, GitHub, Firebase, Expo Go |
+
+---
+
+### 📂 Proyectos Destacados
+
+#### 🚛 Gestión de Flota y Finanzas (Truck Management)
+Aplicación móvil integral diseñada para la logística y el control financiero de un emprendimiento de transporte.
+*   **Logros:** Implementación de arquitectura *offline-first*, persistencia de datos en la nube y gestión de flujos de ingresos/gastos por vehículo.
+*   **Stack:** React Native + Expo, Supabase, TanStack Query, React Hook Form.
+*   🔗 [Ver Repositorio / Proyecto](https://github.com/Emiliano-DG/truck-app)
+
+#### 💰 App de Gastos Personales (En Desarrollo)
+Herramienta de control financiero personal con foco en UX intuitiva y visualización de datos.
+*   **Desafío:** Manejo de estados globales complejos y sincronización en tiempo real.
+*   **Stack:** React Native, Expo, Reanimated, Express.
+
+#### 🛒 E-commerce & Web Apps
+Proyectos de transición web que demuestran mi dominio de la lógica de negocio en React.
+*   **Stack:** React, Zustand, Tailwind.
+*   🔗 [Ver más en mis repositorios](https://github.com/Emiliano-DG/carrito-compras-react-tailwind)
+
+---
 
 ### 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/tuusuario)  
