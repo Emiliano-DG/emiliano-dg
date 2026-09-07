@@ -1,21 +1,29 @@
 # ¡Hola! 👋 Soy Emiliano Geuna 👨‍💻
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Soy desarrollador enfocado en el ecosistema **JavaScript/TypeScript**, especializado en la creación de soluciones modernas tanto para la **Web (React)** como para dispositivos móviles **(React Native & Expo)**. 
+Soy desarrollador enfocado principalmente en **Backend y Mobile**.
 
-Me apasiona construir aplicaciones fluidas, escalables y con foco en la experiencia de usuario, aplicando buenas prácticas de desarrollo, código limpio y arquitectura mantenible.
+Actualmente estoy profundizando en el desarrollo de APIs y servicios backend con **Go**, trabajando con **PostgreSQL, SQL y Docker**, mientras continúo desarrollando aplicaciones móviles con **React Native y Expo**.
+
+También tengo experiencia desarrollando aplicaciones web con **React y TypeScript**, utilizando estas tecnologías cuando son necesarias para complementar mis proyectos.
+
+Me interesa construir software mantenible, entender los fundamentos detrás de las tecnologías que utilizo y seguir mejorando mis conocimientos de arquitectura, bases de datos y desarrollo de aplicaciones.
 
 ---
 
 ### 🚀 Mi Enfoque Actual
-* 📱 **Mobile & Web:** Creando interfaces robustas, interactivas y altamente adaptables a cualquier dispositivo.
-* ⚡ **Full Stack Journey:** Consolidando mis habilidades de backend integrando bases de datos y APIs con **Node.js, Express y NestJS**.
-* 🎓 **Formación Continua:** Cursando actualmente la Tecnicatura en Programación para fortalecer bases de arquitectura y diseño de software.
+
+* 🧠 **Backend:** Profundizando en Go, desarrollo de APIs, arquitectura, SQL y PostgreSQL.
+* 📱 **Mobile:** Desarrollo de aplicaciones con React Native y Expo.
+* 🌐 **Web:** Desarrollo con React y TypeScript cuando el proyecto lo requiere.
+* 🐳 **Infraestructura:** Aprendiendo y aplicando Docker para entornos de desarrollo y despliegue.
+* 🎓 **Formación Continua:** Cursando actualmente la Tecnicatura en Programación y fortaleciendo mis fundamentos de desarrollo de software.
 
 ---
 
@@ -23,32 +31,65 @@ Me apasiona construir aplicaciones fluidas, escalables y con foco en la experien
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Frontend & Mobile** | React, React Native, Expo, Tailwind CSS, TypeScript, Zustand, TanStack Query |
-| **Backend & DB** | Node.js, Express, NestJS, Supabase (PostgreSQL), Zod |
-| **Herramientas** | Git, GitHub, Firebase, Expo Go, Linux Mint |
+| **Backend** | Go, Node.js, NestJS, Express |
+| **Bases de datos** | PostgreSQL, SQL, Supabase |
+| **Mobile** | React Native, Expo, TypeScript |
+| **Frontend Web** | React, TypeScript, Tailwind CSS |
+| **Herramientas** | Git, GitHub, Docker, Linux |
 
 ---
 
 ### 📂 Proyectos Destacados
 
-#### 💼 Sistema de Gestión para PyMEs (En Desarrollo)
-Plataforma web integral diseñada para la administración, control de inventario y facturación de pequeños negocios.
-* **Desafío:** Integración de un frontend dinámico con un backend robusto y escalable para el procesamiento de datos de negocio.
-* **Stack:** React, NestJS, TypeScript, Tailwind CSS.
+#### 💼 Sistema de Gestión para PyMEs — En Desarrollo
 
-#### 🚛 Gestión de Flota y Finanzas (Truck Management)
-Aplicación móvil diseñada para la logística y el control financiero de un emprendimiento de transporte.
-* **Logros:** Implementación de arquitectura offline-first, persistencia de datos en la nube y gestión de flujos de ingresos/gastos por vehículo.
-* **Stack:** React Native, Expo, Supabase, TanStack Query, React Hook Form.
-* **🔗 [Ver Repositorio](https://github.com/Emiliano-DG/truck-app)**
+Sistema orientado a la gestión de pequeños negocios, incluyendo productos, categorías, ventas, movimientos y control financiero.
 
-#### 💰 App de Gastos Personales (En Desarrollo)
-Herramienta de control financiero personal con foco en UX intuitiva y visualización de datos de uso diario.
-* **Desafío:** Manejo de estados globales complejos y sincronización en tiempo real.
-* **Stack:** React Native, Expo, Express, Tailwind.
+Actualmente estoy desarrollando una versión backend utilizando **Go y PostgreSQL**, profundizando en diseño de APIs, arquitectura por capas, SQL y persistencia de datos.
+
+**Stack:** Go, PostgreSQL, SQL, Docker.
+
+---
+
+#### 🚛 Gestión de Flota y Finanzas
+
+Aplicación móvil orientada a la gestión de vehículos, movimientos e ingresos/gastos de un emprendimiento de transporte.
+
+**Características:**
+
+* Gestión de vehículos.
+* Registro de movimientos.
+* Control de ingresos y gastos.
+* Persistencia de datos.
+* Arquitectura orientada a funcionamiento offline.
+
+**Stack:** React Native, Expo, TypeScript, Supabase, TanStack Query.
+
+🔗 [Ver Repositorio](https://github.com/Emiliano-DG/truck-app)
+
+---
+
+#### 💰 App de Gastos Personales — En Desarrollo
+
+Aplicación móvil para registrar y visualizar gastos personales, con foco en una experiencia de usuario sencilla y práctica.
+
+**Stack:** React Native, Expo, TypeScript.
+
+---
+
+### 📚 Actualmente aprendiendo
+
+* Go para desarrollo backend
+* PostgreSQL y SQL
+* Docker
+* Redis
+* Arquitectura backend
+* Desarrollo de APIs REST
+* React Native y desarrollo mobile
 
 ---
 
 ### 📫 Contacto
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
 - 📧 emilianogeuna1994@gmail.com
