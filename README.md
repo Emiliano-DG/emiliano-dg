@@ -57,14 +57,39 @@ Actualmente estoy desarrollando el backend utilizando **Python y FastAPI**, trab
 
 ---
 
-#### 🚛 Gestión de Flota y Finanzas
+🚛 Gestión de Flota y Finanzas
 
 Aplicación móvil orientada a la gestión de vehículos, movimientos e ingresos/gastos de un emprendimiento de transporte.
 
-**Características:**
+Características:
 
-* Gestión de vehículos.
-* Registro de movimientos.
-* Control de ingresos y gastos.
-* Persistencia de datos.
+Gestión de vehículos.
+Registro de movimientos.
+Control de ingresos y gastos.
+Persistencia de datos.
+Funcionamiento orientado a escenarios offline.
+
+Stack: React Native, Expo, TypeScript, Supabase, TanStack Query.
+
+🔗 Ver Repositorio
+
+💰 App de Gastos Personales — En Desarrollo
+
+Aplicación móvil para registrar y visualizar gastos personales, con foco en una experiencia de usuario sencilla y práctica.
+
+Stack: React Native, Expo, TypeScript.
+
+📚 Actualmente aprendiendo
+Python para desarrollo backend
+FastAPI
+PostgreSQL y SQL
+Diseño y arquitectura de APIs REST
+Autenticación y autorización
+Docker
+Fundamentos de infraestructura y despliegue
+
+
+📫 Contacto
+💼 LinkedIn: https://www.linkedin.com/in/emiliano-geuna
+📧 emilianogeuna94@gmail.com
 
