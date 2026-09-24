@@ -12,7 +12,7 @@ Soy desarrollador enfocado en **Backend**, actualmente profundizando en **Python
 
 Estoy construyendo APIs y servicios backend trabajando con **Python, FastAPI, PostgreSQL y SQL**, mientras desarrollo proyectos reales para fortalecer mis conocimientos de arquitectura, bases de datos, autenticación y diseño de APIs.
 
-Además desarrollo frontend con **React y TypeScript** y desarrollo mobile con **React Native y Expo**.
+También tengo experiencia con **Go, Node.js y NestJS**, además de desarrollo frontend con **React y TypeScript** y desarrollo mobile con **React Native y Expo**.
 
 Mi objetivo es seguir construyendo una base sólida como desarrollador backend y, a futuro, profundizar en áreas relacionadas con **infraestructura y DevOps**.
 
@@ -57,39 +57,47 @@ Actualmente estoy desarrollando el backend utilizando **Python y FastAPI**, trab
 
 ---
 
-🚛 Gestión de Flota y Finanzas
+#### 🚛 Gestión de Flota y Finanzas
 
 Aplicación móvil orientada a la gestión de vehículos, movimientos e ingresos/gastos de un emprendimiento de transporte.
 
-Características:
+**Características:**
 
-Gestión de vehículos.
-Registro de movimientos.
-Control de ingresos y gastos.
-Persistencia de datos.
-Funcionamiento orientado a escenarios offline.
+* Gestión de vehículos.
+* Registro de movimientos.
+* Control de ingresos y gastos.
+* Persistencia de datos.
+* Funcionamiento orientado a escenarios offline.
 
-Stack: React Native, Expo, TypeScript, Supabase, TanStack Query.
+**Stack:** React Native, Expo, TypeScript, Supabase, TanStack Query.
 
-🔗 Ver Repositorio
+🔗 [Ver Repositorio](https://github.com/Emiliano-DG/truck-app)
 
-💰 App de Gastos Personales — En Desarrollo
+---
+
+#### 💰 App de Gastos Personales — En Desarrollo
 
 Aplicación móvil para registrar y visualizar gastos personales, con foco en una experiencia de usuario sencilla y práctica.
 
-Stack: React Native, Expo, TypeScript.
+**Stack:** React Native, Expo, TypeScript.
 
-📚 Actualmente aprendiendo
-Python para desarrollo backend
-FastAPI
-PostgreSQL y SQL
-Diseño y arquitectura de APIs REST
-Autenticación y autorización
-Docker
-Fundamentos de infraestructura y despliegue
+---
 
+### 📚 Actualmente aprendiendo
 
-📫 Contacto
-💼 LinkedIn: https://www.linkedin.com/in/emiliano-geuna
-📧 emilianogeuna94@gmail.com
+* Python para desarrollo backend
+* FastAPI
+* PostgreSQL y SQL
+* Diseño y arquitectura de APIs REST
+* Autenticación y autorización
+* Docker
+* Fundamentos de infraestructura y despliegue
+
+---
+
+### 📫 Contacto
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/emiliano-geuna)
+* 📧 [emilianogeuna94@gmail.com](mailto:emilianogeuna1994@gmail.com)
+
 
