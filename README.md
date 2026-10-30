@@ -89,11 +89,13 @@ Aplicación móvil enfocada en el registro y seguimiento de gastos personales, b
 
 ---
 
-## 🎯 Objetivo profesional
+🎯 Objetivo profesional
 
-Mi objetivo es crecer profesionalmente como **desarrollador Backend con Python**, fortaleciendo mis conocimientos en arquitectura de software, bases de datos y desarrollo de APIs.
+Mi objetivo es seguir creciendo como desarrollador de software, profundizando mis conocimientos en Backend con Python y en el desarrollo de aplicaciones móviles con React Native.
 
-Busco seguir construyendo proyectos reales, mejorar continuamente mis habilidades técnicas y participar en equipos donde pueda aportar, aprender y crecer como desarrollador.
+Me interesa participar en proyectos reales, aprender nuevas tecnologías, fortalecer mis fundamentos de programación y seguir desarrollando soluciones que resuelvan problemas concretos.
+
+Estoy abierto a oportunidades tanto en desarrollo Backend como Mobile, donde pueda aportar mis conocimientos, adquirir experiencia profesional y continuar creciendo como desarrollador.
 
 ---
 
