@@ -1,83 +1,112 @@
-¡Hola! 👋 Soy Emiliano Geuna
+# 👋 ¡Hola! Soy Emiliano Geuna
 
-💻 Desarrollador en formación enfocado en Backend con Python y desarrollo de aplicaciones móviles con React Native y Expo.
+### 💻 Backend Developer en formación | Python · FastAPI · PostgreSQL | React Native
 
-Actualmente estoy profundizando mis conocimientos de Python, FastAPI, PostgreSQL y diseño de APIs REST mediante proyectos prácticos.
+Soy desarrollador en formación, enfocado principalmente en **Backend con Python** y en el desarrollo de aplicaciones móviles con **React Native y Expo**.
 
-Me interesa construir software que resuelva problemas reales, comprender cómo funcionan los sistemas desde adentro y desarrollar soluciones mantenibles.
+Actualmente estoy profundizando mis conocimientos en desarrollo de APIs REST, bases de datos relacionales, arquitectura backend y buenas prácticas de programación mediante proyectos prácticos.
 
-También tengo experiencia desarrollando aplicaciones móviles y trabajando con bases de datos, servicios externos y tecnologías web.
+Me motiva construir software que resuelva problemas reales, entender cómo funcionan los sistemas desde adentro y desarrollar soluciones escalables, mantenibles y bien estructuradas.
 
-🚀 Mi enfoque actual
+---
 
-* 🐍 Backend: Python, FastAPI y desarrollo de APIs REST.
-* 🗄️ Bases de datos: PostgreSQL, SQL y Supabase.
-* 📱 Mobile: React Native, Expo y TypeScript.
-* 🔐 Desarrollo de APIs: autenticación, autorización y lógica de negocio.
-* 🐳 Infraestructura: Docker, Linux y fundamentos de despliegue.
-* 🌐 Frontend web: React y TypeScript como herramientas complementarias.
-* 🎓 Formación: Tecnicatura en Programación.
+## 🚀 Tecnologías y herramientas
 
-⸻
+**Backend**
+- Python
+- FastAPI
+- Desarrollo de APIs REST
+- Autenticación y autorización
 
-🛠️ Tecnologías
+**Bases de datos**
+- PostgreSQL
+- SQL
+- Supabase
 
-⸻
+**Desarrollo Mobile**
+- React Native
+- Expo
+- TypeScript
 
-📂 Proyectos destacados
+**Frontend**
+- React
+- TypeScript
 
-💼 Sistema de Gestión para PyMEs — En desarrollo
+**Infraestructura y herramientas**
+- Docker
+- Linux
+- Git & GitHub
 
-Sistema orientado a la gestión de pequeños negocios, con funcionalidades relacionadas con productos, categorías, ventas, movimientos y control financiero.
+---
 
-Actualmente estoy trabajando en el backend con Python y FastAPI, profundizando en el diseño de APIs, la persistencia de datos, SQL y la organización de la lógica de negocio.
+## 📂 Proyectos destacados
 
-Tecnologías: Python, FastAPI, PostgreSQL, SQL y Docker.
+### 💼 Sistema de Gestión para PyMEs
+<sub>En desarrollo</sub>
 
-🚛 Gestión de Flota y Finanzas
+Sistema orientado a la gestión integral de pequeños negocios, pensado para centralizar información y facilitar el control de las operaciones diarias.
 
-Aplicación móvil desarrollada para gestionar información relacionada con vehículos, movimientos e ingresos y gastos de un emprendimiento de transporte.
+**Funcionalidades en desarrollo:**
+- Gestión de productos y categorías.
+- Registro y seguimiento de ventas.
+- Control de movimientos.
+- Gestión financiera.
+- Organización de la lógica de negocio.
 
-Características:
+**Stack:** Python · FastAPI · PostgreSQL · SQL · Docker
 
-* Gestión de vehículos.
-* Registro de movimientos.
-* Control de ingresos y gastos.
-* Integración con servicios de persistencia de datos.
+### 🚛 Gestión de Flota y Finanzas
 
-Tecnologías: React Native, Expo, TypeScript y Supabase.
+Aplicación móvil desarrollada para administrar información de vehículos y controlar los movimientos financieros de un emprendimiento de transporte.
 
-🔗 Ver repositorio
+**Características:**
+- Gestión de vehículos.
+- Registro de movimientos.
+- Control de ingresos y gastos.
+- Persistencia e integración con servicios externos.
 
-💰 App de Gastos Personales — En desarrollo
+**Stack:** React Native · Expo · TypeScript · Supabase
 
-Aplicación móvil orientada al registro y seguimiento de gastos personales, con foco en una experiencia de uso sencilla y práctica.
+🔗 [Ver repositorio](PEGAR_LINK_DEL_REPOSITORIO)
 
-Tecnologías: React Native, Expo y TypeScript.
+### 💰 App de Gastos Personales
+<sub>En desarrollo</sub>
 
-⸻
+Aplicación móvil enfocada en el registro y seguimiento de gastos personales, buscando ofrecer una experiencia sencilla, intuitiva y práctica.
 
-📚 Actualmente profundizando en
+**Stack:** React Native · Expo · TypeScript
 
-* Python aplicado al desarrollo backend.
-* FastAPI y diseño de APIs REST.
-* PostgreSQL, SQL y modelado de datos.
-* Autenticación y autorización.
-* Arquitectura y organización de aplicaciones backend.
-* Docker, Linux y fundamentos de despliegue.
+---
 
-⸻
+## 📚 Actualmente aprendiendo
 
-🎯 Objetivo profesional
+- Desarrollo backend con Python.
+- FastAPI y diseño de APIs REST.
+- PostgreSQL, SQL y modelado de datos.
+- Autenticación y autorización.
+- Arquitectura y buenas prácticas de desarrollo.
+- Docker, Linux y despliegue de aplicaciones.
 
-Seguir creciendo como desarrollador backend con Python, sin dejar de desarrollar aplicaciones móviles. Busco fortalecer mis fundamentos de programación, mejorar la calidad de mis proyectos y adquirir experiencia profesional construyendo soluciones reales.
+---
 
-⸻
+## 🎯 Objetivo profesional
 
-📫 Contacto
+Mi objetivo es crecer profesionalmente como **desarrollador Backend con Python**, fortaleciendo mis conocimientos en arquitectura de software, bases de datos y desarrollo de APIs.
 
-* 💼 LinkedIn
-* 📧 emilianogeuna1994@gmail.com
-* 🐙 GitHub
+Busco seguir construyendo proyectos reales, mejorar continuamente mis habilidades técnicas y participar en equipos donde pueda aportar, aprender y crecer como desarrollador.
+
+---
+
+## 🤝 Conectemos
+
+- 💼 **LinkedIn:** PEGAR_LINK_DE_LINKEDIN
+- 📧 **Email:** emilianogeuna1994@gmail.com
+- 🐙 **GitHub:** [@TU_USUARIO](https://github.com/TU_USUARIO)
+
+---
+
+<p align="center">
+  💻 <i>Aprendiendo, construyendo y mejorando un proyecto a la vez.</i>
+</p>
 
 
