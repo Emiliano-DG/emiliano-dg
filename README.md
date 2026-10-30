@@ -99,9 +99,8 @@ Busco seguir construyendo proyectos reales, mejorar continuamente mis habilidade
 
 ## 🤝 Conectemos
 
-- 💼 **LinkedIn:** PEGAR_LINK_DE_LINKEDIN
+- 💼 **LinkedIn:** https://www.linkedin.com/in/emiliano-geuna
 - 📧 **Email:** emilianogeuna1994@gmail.com
-- 🐙 **GitHub:** [@TU_USUARIO](https://github.com/TU_USUARIO)
 
 ---
 
