@@ -67,7 +67,7 @@ Aplicación móvil desarrollada para administrar información de vehículos y co
 
 **Stack:** React Native · Expo · TypeScript · Supabase
 
-🔗 [Ver repositorio](PEGAR_LINK_DEL_REPOSITORIO)
+🔗 [Ver repositorio](https://github.com/Emiliano-DG/truck-app)
 
 ### 💰 App de Gastos Personales
 <sub>En desarrollo</sub>
@@ -76,7 +76,7 @@ Aplicación móvil enfocada en el registro y seguimiento de gastos personales, b
 
 **Stack:** React Native · Expo · TypeScript
 
----
+🔗 [Ver repositorio](https://github.com/Emiliano-DG/proyecto-gastos-ia)
 
 ## 📚 Actualmente aprendiendo
 
