@@ -1,103 +1,83 @@
-# ¡Hola! 👋 Soy Emiliano Geuna 👨‍💻
+¡Hola! 👋 Soy Emiliano Geuna
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+💻 Desarrollador en formación enfocado en Backend con Python y desarrollo de aplicaciones móviles con React Native y Expo.
 
-Soy desarrollador enfocado en **Backend**, actualmente profundizando en **Python y FastAPI**.
+Actualmente estoy profundizando mis conocimientos de Python, FastAPI, PostgreSQL y diseño de APIs REST mediante proyectos prácticos.
 
-Estoy construyendo APIs y servicios backend trabajando con **Python, FastAPI, PostgreSQL y SQL**, mientras desarrollo proyectos reales para fortalecer mis conocimientos de arquitectura, bases de datos, autenticación y diseño de APIs.
+Me interesa construir software que resuelva problemas reales, comprender cómo funcionan los sistemas desde adentro y desarrollar soluciones mantenibles.
 
-También tengo experiencia con **Go, Node.js y NestJS**, además de desarrollo frontend con **React y TypeScript** y desarrollo mobile con **React Native y Expo**.
+También tengo experiencia desarrollando aplicaciones móviles y trabajando con bases de datos, servicios externos y tecnologías web.
 
-Mi objetivo es seguir construyendo una base sólida como desarrollador backend y, a futuro, profundizar en áreas relacionadas con **infraestructura y DevOps**.
+🚀 Mi enfoque actual
 
-Me interesa entender los fundamentos detrás de las tecnologías que utilizo y construir software mantenible, práctico y preparado para proyectos reales.
+* 🐍 Backend: Python, FastAPI y desarrollo de APIs REST.
+* 🗄️ Bases de datos: PostgreSQL, SQL y Supabase.
+* 📱 Mobile: React Native, Expo y TypeScript.
+* 🔐 Desarrollo de APIs: autenticación, autorización y lógica de negocio.
+* 🐳 Infraestructura: Docker, Linux y fundamentos de despliegue.
+* 🌐 Frontend web: React y TypeScript como herramientas complementarias.
+* 🎓 Formación: Tecnicatura en Programación.
 
----
+⸻
 
-### 🚀 Mi Enfoque Actual
+🛠️ Tecnologías
 
-* 🐍 **Backend:** Desarrollo de APIs con Python y FastAPI.
-* 🗄️ **Bases de datos:** PostgreSQL, SQL y diseño de datos.
-* 🔐 **APIs:** Autenticación, autorización, dependencias y arquitectura backend.
-* 🐳 **Infraestructura:** Docker y conceptos de despliegue.
-* 🌐 **Frontend:** React y TypeScript como tecnologías complementarias.
-* 📱 **Mobile:** Experiencia desarrollando aplicaciones con React Native y Expo.
-* 🎓 **Formación:** Cursando actualmente la Tecnicatura en Programación y fortaleciendo mis fundamentos de desarrollo de software.
+⸻
 
----
+📂 Proyectos destacados
 
-### 🛠 Tech Stack
+💼 Sistema de Gestión para PyMEs — En desarrollo
 
-| Categoría           | Tecnologías                                   |
-| :------------------ | :-------------------------------------------- |
-| **Backend**         | Python, FastAPI, Go, Node.js, NestJS, Express |
-| **Bases de datos**  | PostgreSQL, SQL, Supabase                     |
-| **Frontend Web**    | React, TypeScript, Tailwind CSS               |
-| **Mobile**          | React Native, Expo                            |
-| **Infraestructura** | Docker, Linux                                 |
-| **Herramientas**    | Git, GitHub                                   |
+Sistema orientado a la gestión de pequeños negocios, con funcionalidades relacionadas con productos, categorías, ventas, movimientos y control financiero.
 
----
+Actualmente estoy trabajando en el backend con Python y FastAPI, profundizando en el diseño de APIs, la persistencia de datos, SQL y la organización de la lógica de negocio.
 
-### 📂 Proyectos Destacados
+Tecnologías: Python, FastAPI, PostgreSQL, SQL y Docker.
 
-#### 💼 Sistema de Gestión para PyMEs — En Desarrollo
+🚛 Gestión de Flota y Finanzas
 
-Sistema orientado a la gestión de pequeños negocios, incluyendo productos, categorías, ventas, movimientos y control financiero.
+Aplicación móvil desarrollada para gestionar información relacionada con vehículos, movimientos e ingresos y gastos de un emprendimiento de transporte.
 
-Actualmente estoy desarrollando el backend utilizando **Python y FastAPI**, trabajando con PostgreSQL y profundizando en diseño de APIs, autenticación, arquitectura backend, SQL y persistencia de datos.
-
-**Stack:** Python, FastAPI, PostgreSQL, SQL, Docker.
-
----
-
-#### 🚛 Gestión de Flota y Finanzas
-
-Aplicación móvil orientada a la gestión de vehículos, movimientos e ingresos/gastos de un emprendimiento de transporte.
-
-**Características:**
+Características:
 
 * Gestión de vehículos.
 * Registro de movimientos.
 * Control de ingresos y gastos.
-* Persistencia de datos.
-* Funcionamiento orientado a escenarios offline.
+* Integración con servicios de persistencia de datos.
 
-**Stack:** React Native, Expo, TypeScript, Supabase, TanStack Query.
+Tecnologías: React Native, Expo, TypeScript y Supabase.
 
-🔗 [Ver Repositorio](https://github.com/Emiliano-DG/truck-app)
+🔗 Ver repositorio
 
----
+💰 App de Gastos Personales — En desarrollo
 
-#### 💰 App de Gastos Personales — En Desarrollo
+Aplicación móvil orientada al registro y seguimiento de gastos personales, con foco en una experiencia de uso sencilla y práctica.
 
-Aplicación móvil para registrar y visualizar gastos personales, con foco en una experiencia de usuario sencilla y práctica.
+Tecnologías: React Native, Expo y TypeScript.
 
-**Stack:** React Native, Expo, TypeScript.
+⸻
 
----
+📚 Actualmente profundizando en
 
-### 📚 Actualmente aprendiendo
+* Python aplicado al desarrollo backend.
+* FastAPI y diseño de APIs REST.
+* PostgreSQL, SQL y modelado de datos.
+* Autenticación y autorización.
+* Arquitectura y organización de aplicaciones backend.
+* Docker, Linux y fundamentos de despliegue.
 
-* Python para desarrollo backend
-* FastAPI
-* PostgreSQL y SQL
-* Diseño y arquitectura de APIs REST
-* Autenticación y autorización
-* Docker
-* Fundamentos de infraestructura y despliegue
+⸻
 
----
+🎯 Objetivo profesional
 
-### 📫 Contacto
+Seguir creciendo como desarrollador backend con Python, sin dejar de desarrollar aplicaciones móviles. Busco fortalecer mis fundamentos de programación, mejorar la calidad de mis proyectos y adquirir experiencia profesional construyendo soluciones reales.
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/emiliano-geuna)
-* 📧 [emilianogeuna94@gmail.com](mailto:emilianogeuna1994@gmail.com)
+⸻
+
+📫 Contacto
+
+* 💼 LinkedIn
+* 📧 emilianogeuna1994@gmail.com
+* 🐙 GitHub
 
 
